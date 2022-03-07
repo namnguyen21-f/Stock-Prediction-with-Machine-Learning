@@ -1,4 +1,3 @@
-# Artificial Intelligence on Ascending Triangle Pattern of Stock Markets
+# Machine Learning on Head and Shoulder Pattern Detection of Stock Markets
 
 
-## Structure
