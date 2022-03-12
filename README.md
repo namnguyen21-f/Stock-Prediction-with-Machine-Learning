@@ -17,6 +17,9 @@
  
  ![image](https://user-images.githubusercontent.com/67353717/158013670-6022dc46-01b1-42ee-ba17-24f81d52f46d.png)<br />
  
+ 
+ Example with 3 consecutive candle as the test candle and the last one is predicted
+ 
   Apply it to real-time stock market data<br />
   
 
