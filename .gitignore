@@ -1,0 +1,5 @@
+
+my_checkpoint/variables/variables.index
+my_checkpoint/keras_metadata.pb
+*.pb
+my_checkpoint/variables/variables.data-00000-of-00001
